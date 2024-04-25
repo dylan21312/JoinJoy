@@ -69,6 +69,7 @@ JoinJoy 是一個多功能活動建立與報名平台，支持各種類型的活
 git clone https://github.com/dylan21312/JoinJoy.git
 cd JoinJoy
 # 根據您的環境配置項目並安裝依賴
+```
 
 ## 版本歷史
 ● 0.1 
